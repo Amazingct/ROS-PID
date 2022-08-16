@@ -1,0 +1,2 @@
+pid
+-DCATKIN_DEVEL_PREFIX=/mnt/c/Users/danie/Desktop/projects/ROS-PID/workspace/devel -DCMAKE_INSTALL_PREFIX=/mnt/c/Users/danie/Desktop/projects/ROS-PID/workspace/install -G Unix Makefiles

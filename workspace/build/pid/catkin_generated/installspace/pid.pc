@@ -1,0 +1,8 @@
+prefix=/mnt/c/Users/danie/Desktop/projects/ROS-PID/workspace/install
+
+Name: pid
+Description: Description of pid
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
